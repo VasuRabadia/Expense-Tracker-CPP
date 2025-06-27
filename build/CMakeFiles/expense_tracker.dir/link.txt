@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/expense_tracker.dir/src/database.cpp.o CMakeFiles/expense_tracker.dir/src/main.cpp.o CMakeFiles/expense_tracker.dir/src/memory_log.cpp.o -o expense_tracker  -lsqlite3 -largon2 

@@ -1,0 +1,4 @@
+/workspaces/Expense-Tracker-CPP/build/CMakeFiles/expense_tracker.dir
+/workspaces/Expense-Tracker-CPP/build/CMakeFiles/run_tests.dir
+/workspaces/Expense-Tracker-CPP/build/CMakeFiles/edit_cache.dir
+/workspaces/Expense-Tracker-CPP/build/CMakeFiles/rebuild_cache.dir

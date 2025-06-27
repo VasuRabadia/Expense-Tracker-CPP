@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/run_tests.dir/src/test.cpp.o CMakeFiles/run_tests.dir/src/database.cpp.o CMakeFiles/run_tests.dir/src/memory_log.cpp.o -o run_tests  -lsqlite3 -largon2 
